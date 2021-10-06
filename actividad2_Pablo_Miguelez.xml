@@ -1,0 +1,15 @@
+<tweet>
+    <nombre> Pablo </nombre>
+    <usuario> Pablomi_02 </usuario>
+    nombre
+    alias
+    correo
+    foto
+    <contenido>
+    "No cuentes los días: consigue que los días cuenten". Mohammad Ali
+     </contenido>
+    <retweets> 200 </retweets>  
+    <me gusta> 545</me gusta>
+    <comentarios> 
+    <comentario>Grande Ali </comentario> </comentarios>
+    </tweet>
